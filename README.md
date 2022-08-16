@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 ### 언어 및 도구
 
 
-<img alt="Java" src ="https://img.shields.io/badge/javascript%20(1).svg?&style=for-the-badge&logo=JS&logoColor=white"/>
+<img alt="JS" src ="https://img.shields.io/badge/JS-javascript%20(1).svg?&style=for-the-badge&logo=JS&logoColor=white"/>
