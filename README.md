@@ -1,4 +1,4 @@
-## 👋반갑습니다!
+### 👋반갑습니다!
 
 <!--
 **goodjean/goodjean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔍 스스로 문재해결 해보기에 중점을 두고 학습에 임하고 있습니다.
 - 🤔 꼬리물기식 사색하기를 좋아합니다.
 
-### 언어 및 도구
+#### 언어 및 도구
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
